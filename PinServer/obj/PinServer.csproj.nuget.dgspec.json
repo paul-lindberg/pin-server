@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\super\\Documents\\RaspberryPi Server\\pin-server\\PinServer\\PinServer.csproj": {}
+    "C:\\Users\\super\\Documents\\RaspberryPi Server\\PinServer\\PinServer\\PinServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\super\\Documents\\RaspberryPi Server\\pin-server\\PinServer\\PinServer.csproj": {
+    "C:\\Users\\super\\Documents\\RaspberryPi Server\\PinServer\\PinServer\\PinServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\super\\Documents\\RaspberryPi Server\\pin-server\\PinServer\\PinServer.csproj",
+        "projectUniqueName": "C:\\Users\\super\\Documents\\RaspberryPi Server\\PinServer\\PinServer\\PinServer.csproj",
         "projectName": "PinServer",
-        "projectPath": "C:\\Users\\super\\Documents\\RaspberryPi Server\\pin-server\\PinServer\\PinServer.csproj",
+        "projectPath": "C:\\Users\\super\\Documents\\RaspberryPi Server\\PinServer\\PinServer\\PinServer.csproj",
         "packagesPath": "C:\\Users\\super\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\super\\Documents\\RaspberryPi Server\\pin-server\\PinServer\\obj\\",
+        "outputPath": "C:\\Users\\super\\Documents\\RaspberryPi Server\\PinServer\\PinServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -43,16 +43,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.HttpOverrides": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.2.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
