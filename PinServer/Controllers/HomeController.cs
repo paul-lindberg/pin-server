@@ -18,7 +18,7 @@ namespace PinServer.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult ProjectGoals()
         {
             return View();
         }

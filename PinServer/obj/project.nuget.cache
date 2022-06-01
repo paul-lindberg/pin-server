@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bJGaOXF4XpFrITmXqx1BFKFbLUJhFvDJuWgTKiTMornoyKEJb+XoaIRK/FZlF+mxA4MyMURf0yOs4g9BPRpPng==",
+  "dgSpecHash": "RucrE0qp5bl/pQN5jcDWKQMJBreqgeFXxm090uWMsBHKvimX/pd8lhmNoAC0hA2CGMwEXuvTkSa+8X3EBRwMSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\super\\Documents\\RaspberryPi Server\\PinServer\\PinServer\\PinServer.csproj",
+  "projectFilePath": "C:\\Users\\super\\Documents\\RaspberryPi Server\\pin-server\\PinServer\\PinServer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
