@@ -1,9 +1,33 @@
+using PinServer.Models;
+using PinServer;
+//using Microsoft.AspNetCore;
+
+//public class Program
+//{
+//    public static void Main(string[] args)
+//    {
+//        Globals.SeedData = new List<RaspberryPi>() {
+//            new RaspberryPi{Id=1, Name="Test1", Pin1=4, Pin2=5, Pin3=2},
+//            new RaspberryPi{Id=2, Name="Test2", Pin1=7, Pin2=5, Pin3=5},
+//            new RaspberryPi{Id=3, Name="Test3", Pin1=3, Pin2=4, Pin3=2}
+//        };
+//        CreateWebHostBuilder(args).Build().Run();
+//    }
+//    public static IWebHostBuilder CreateWebHostBuilder(string[] args) => WebHost.CreateDefaultBuilder(args).UseStartup<StartupBase>();
+//}
+
+Globals.SeedData = new List<RaspberryPi>() {
+    new RaspberryPi{Id=1, Name="Test1", Pin1=4, Pin2=5, Pin3=2},
+    new RaspberryPi{Id=2, Name="Test2", Pin1=7, Pin2=5, Pin3=5},
+    new RaspberryPi{Id=3, Name="Test3", Pin1=3, Pin2=4, Pin3=2}
+};
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
+
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

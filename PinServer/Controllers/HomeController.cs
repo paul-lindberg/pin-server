@@ -15,7 +15,8 @@ namespace PinServer.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            List<RaspberryPi> res = Globals.SeedData;
+            return View(res);
         }
 
         public IActionResult ProjectGoals()
