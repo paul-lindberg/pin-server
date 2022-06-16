@@ -16,6 +16,8 @@ namespace PinServer.Controllers
         public IActionResult Index()
         {
             List<RaspberryPi> res = Globals.SeedData;
+
+            TcpTimeServer.Init(null);
             return View(res);
         }
 
