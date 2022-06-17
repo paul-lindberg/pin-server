@@ -5,3 +5,12 @@ C:\Users\super\Documents\RaspberryPi Server\pin-server\PinServer\obj\Release\net
 C:\Users\super\Documents\RaspberryPi Server\pin-server\PinServer\obj\Release\net6.0\PubTmp\Out\PinServer.deps.json
 C:\Users\super\Documents\RaspberryPi Server\pin-server\PinServer\obj\Release\net6.0\PubTmp\Out\PinServer.runtimeconfig.json
 C:\Users\super\Documents\RaspberryPi Server\pin-server\PinServer\obj\Release\net6.0\PubTmp\Out\PinServer.pdb
+C:\Users\super\Documents\RaspberryPi Server\pin-server\PinServer\obj\Release\net6.0\PubTmp\Out\ConsoleServer.exe
+C:\Users\super\Documents\RaspberryPi Server\pin-server\PinServer\obj\Release\net6.0\PubTmp\Out\Helper.dll
+C:\Users\super\Documents\RaspberryPi Server\pin-server\PinServer\obj\Release\net6.0\PubTmp\Out\ServerHost.dll
+C:\Users\super\Documents\RaspberryPi Server\pin-server\PinServer\obj\Release\net6.0\PubTmp\Out\StandardServer.dll
+C:\Users\super\Documents\RaspberryPi Server\pin-server\PinServer\obj\Release\net6.0\PubTmp\Out\ConsoleServer.pdb
+C:\Users\super\Documents\RaspberryPi Server\pin-server\PinServer\obj\Release\net6.0\PubTmp\Out\ConsoleServer.exe.config
+C:\Users\super\Documents\RaspberryPi Server\pin-server\PinServer\obj\Release\net6.0\PubTmp\Out\Helper.pdb
+C:\Users\super\Documents\RaspberryPi Server\pin-server\PinServer\obj\Release\net6.0\PubTmp\Out\ServerHost.pdb
+C:\Users\super\Documents\RaspberryPi Server\pin-server\PinServer\obj\Release\net6.0\PubTmp\Out\StandardServer.pdb

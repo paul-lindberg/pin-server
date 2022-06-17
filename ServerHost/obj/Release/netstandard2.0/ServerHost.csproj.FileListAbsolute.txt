@@ -1,0 +1,15 @@
+C:\Users\super\Documents\RaspberryPi Server\pin-server\ServerHost\bin\Release\netstandard2.0\ServerHost.deps.json
+C:\Users\super\Documents\RaspberryPi Server\pin-server\ServerHost\bin\Release\netstandard2.0\ServerHost.dll
+C:\Users\super\Documents\RaspberryPi Server\pin-server\ServerHost\bin\Release\netstandard2.0\ServerHost.pdb
+C:\Users\super\Documents\RaspberryPi Server\pin-server\ServerHost\bin\Release\netstandard2.0\Helper.dll
+C:\Users\super\Documents\RaspberryPi Server\pin-server\ServerHost\bin\Release\netstandard2.0\StandardServer.dll
+C:\Users\super\Documents\RaspberryPi Server\pin-server\ServerHost\bin\Release\netstandard2.0\Helper.pdb
+C:\Users\super\Documents\RaspberryPi Server\pin-server\ServerHost\bin\Release\netstandard2.0\StandardServer.pdb
+C:\Users\super\Documents\RaspberryPi Server\pin-server\ServerHost\obj\Release\netstandard2.0\ServerHost.csproj.AssemblyReference.cache
+C:\Users\super\Documents\RaspberryPi Server\pin-server\ServerHost\obj\Release\netstandard2.0\ServerHost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\Documents\RaspberryPi Server\pin-server\ServerHost\obj\Release\netstandard2.0\ServerHost.AssemblyInfoInputs.cache
+C:\Users\super\Documents\RaspberryPi Server\pin-server\ServerHost\obj\Release\netstandard2.0\ServerHost.AssemblyInfo.cs
+C:\Users\super\Documents\RaspberryPi Server\pin-server\ServerHost\obj\Release\netstandard2.0\ServerHost.csproj.CoreCompileInputs.cache
+C:\Users\super\Documents\RaspberryPi Server\pin-server\ServerHost\obj\Release\netstandard2.0\ServerHost.csproj.CopyComplete
+C:\Users\super\Documents\RaspberryPi Server\pin-server\ServerHost\obj\Release\netstandard2.0\ServerHost.dll
+C:\Users\super\Documents\RaspberryPi Server\pin-server\ServerHost\obj\Release\netstandard2.0\ServerHost.pdb

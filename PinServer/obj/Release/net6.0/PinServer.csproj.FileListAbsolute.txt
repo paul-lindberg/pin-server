@@ -24,3 +24,13 @@ C:\Users\super\Documents\RaspberryPi Server\pin-server\PinServer\obj\Release\net
 C:\Users\super\Documents\RaspberryPi Server\pin-server\PinServer\obj\Release\net6.0\PinServer.pdb
 C:\Users\super\Documents\RaspberryPi Server\pin-server\PinServer\obj\Release\net6.0\PinServer.genruntimeconfig.cache
 C:\Users\super\Documents\RaspberryPi Server\pin-server\PinServer\obj\Release\net6.0\ref\PinServer.dll
+C:\Users\super\Documents\RaspberryPi Server\pin-server\PinServer\bin\Release\net6.0\ConsoleServer.exe
+C:\Users\super\Documents\RaspberryPi Server\pin-server\PinServer\bin\Release\net6.0\Helper.dll
+C:\Users\super\Documents\RaspberryPi Server\pin-server\PinServer\bin\Release\net6.0\ServerHost.dll
+C:\Users\super\Documents\RaspberryPi Server\pin-server\PinServer\bin\Release\net6.0\StandardServer.dll
+C:\Users\super\Documents\RaspberryPi Server\pin-server\PinServer\bin\Release\net6.0\ConsoleServer.pdb
+C:\Users\super\Documents\RaspberryPi Server\pin-server\PinServer\bin\Release\net6.0\ConsoleServer.exe.config
+C:\Users\super\Documents\RaspberryPi Server\pin-server\PinServer\bin\Release\net6.0\Helper.pdb
+C:\Users\super\Documents\RaspberryPi Server\pin-server\PinServer\bin\Release\net6.0\ServerHost.pdb
+C:\Users\super\Documents\RaspberryPi Server\pin-server\PinServer\bin\Release\net6.0\StandardServer.pdb
+C:\Users\super\Documents\RaspberryPi Server\pin-server\PinServer\obj\Release\net6.0\PinServer.csproj.CopyComplete

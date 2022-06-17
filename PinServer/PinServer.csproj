@@ -6,4 +6,51 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Server\ClientHost\bin\**" />
+    <Compile Remove="Server\ClientHost\obj\**" />
+    <Compile Remove="Server\ConsoleServer\bin\**" />
+    <Compile Remove="Server\ConsoleServer\obj\**" />
+    <Compile Remove="Server\Helper\bin\**" />
+    <Compile Remove="Server\Helper\obj\**" />
+    <Compile Remove="Server\ServerHost\bin\**" />
+    <Compile Remove="Server\ServerHost\obj\**" />
+    <Compile Remove="Server\StandardServer\bin\**" />
+    <Compile Remove="Server\StandardServer\obj\**" />
+    <Content Remove="Server\ClientHost\bin\**" />
+    <Content Remove="Server\ClientHost\obj\**" />
+    <Content Remove="Server\ConsoleServer\bin\**" />
+    <Content Remove="Server\ConsoleServer\obj\**" />
+    <Content Remove="Server\Helper\bin\**" />
+    <Content Remove="Server\Helper\obj\**" />
+    <Content Remove="Server\ServerHost\bin\**" />
+    <Content Remove="Server\ServerHost\obj\**" />
+    <Content Remove="Server\StandardServer\bin\**" />
+    <Content Remove="Server\StandardServer\obj\**" />
+    <EmbeddedResource Remove="Server\ClientHost\bin\**" />
+    <EmbeddedResource Remove="Server\ClientHost\obj\**" />
+    <EmbeddedResource Remove="Server\ConsoleServer\bin\**" />
+    <EmbeddedResource Remove="Server\ConsoleServer\obj\**" />
+    <EmbeddedResource Remove="Server\Helper\bin\**" />
+    <EmbeddedResource Remove="Server\Helper\obj\**" />
+    <EmbeddedResource Remove="Server\ServerHost\bin\**" />
+    <EmbeddedResource Remove="Server\ServerHost\obj\**" />
+    <EmbeddedResource Remove="Server\StandardServer\bin\**" />
+    <EmbeddedResource Remove="Server\StandardServer\obj\**" />
+    <None Remove="Server\ClientHost\bin\**" />
+    <None Remove="Server\ClientHost\obj\**" />
+    <None Remove="Server\ConsoleServer\bin\**" />
+    <None Remove="Server\ConsoleServer\obj\**" />
+    <None Remove="Server\Helper\bin\**" />
+    <None Remove="Server\Helper\obj\**" />
+    <None Remove="Server\ServerHost\bin\**" />
+    <None Remove="Server\ServerHost\obj\**" />
+    <None Remove="Server\StandardServer\bin\**" />
+    <None Remove="Server\StandardServer\obj\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ConsoleServer\ConsoleServer.csproj" />
+  </ItemGroup>
+
 </Project>

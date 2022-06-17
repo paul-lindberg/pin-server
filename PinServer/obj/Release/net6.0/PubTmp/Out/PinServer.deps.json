@@ -7,14 +7,75 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "PinServer/1.0.0": {
+        "dependencies": {
+          "ConsoleServer": "1.0.0"
+        },
         "runtime": {
           "PinServer.dll": {}
+        }
+      },
+      "System.Text.Json/4.7.2": {},
+      "ConsoleServer/1.0.0": {
+        "dependencies": {
+          "ServerHost": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleServer.exe": {}
+        }
+      },
+      "Helper/1.0.0": {
+        "dependencies": {
+          "System.Text.Json": "4.7.2"
+        },
+        "runtime": {
+          "Helper.dll": {}
+        }
+      },
+      "ServerHost/1.0.0": {
+        "dependencies": {
+          "Helper": "1.0.0",
+          "StandardServer": "1.0.0"
+        },
+        "runtime": {
+          "ServerHost.dll": {}
+        }
+      },
+      "StandardServer/1.0.0": {
+        "runtime": {
+          "StandardServer.dll": {}
         }
       }
     }
   },
   "libraries": {
     "PinServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Text.Json/4.7.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TcMd95wcrubm9nHvJEQs70rC0H/8omiSGGpU4FQ/ZA1URIqD4pjmFJh2Mfv1yH1eHgJDWTi2hMDXwTET+zOOyg==",
+      "path": "system.text.json/4.7.2",
+      "hashPath": "system.text.json.4.7.2.nupkg.sha512"
+    },
+    "ConsoleServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Helper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServerHost/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StandardServer/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

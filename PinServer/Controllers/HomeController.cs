@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using ConsoleServer;
+using Microsoft.AspNetCore.Mvc;
 using PinServer.Models;
 using System.Diagnostics;
 
@@ -17,7 +18,9 @@ namespace PinServer.Controllers
         {
             List<RaspberryPi> res = Globals.SeedData;
 
-            TcpTimeServer.Init(null);
+            ServerProgram.Main();//192.168.1.53
+                                 //TcpTimeServer.Init(null);
+
             return View(res);
         }
 
